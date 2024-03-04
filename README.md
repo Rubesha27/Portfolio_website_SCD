@@ -5,6 +5,6 @@ GROUP MEMBERS:
 21sw041 Yogeeta Lohana
 21sw147 Rizeen Yaseen 
 
-This is our website for SwiftSneaks Website. A fictional business brand website wee created. SwiftSneaks is a Sneaker-selling brand.
+This is our website for SwiftSneaks Website. A fictional business brand website we created. SwiftSneaks is a Sneaker-selling brand.
 We have worked on 6 different branches, with 6 different pages on the website. 
 We divided our work based on each page we make for the website.
