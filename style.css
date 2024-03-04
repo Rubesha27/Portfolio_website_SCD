@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu {
+    display: block;
+    background-color: #502566;
+    padding: 10px 0px 10px 0px;
+    overflow: hidden;
+}
+
+.menu a {
+    float: right;
+    color: whitesmoke;
+    padding: 14px 24px;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 1s;
+}
+
+.menu a:hover {
+    background-color: #d5d0d7;
+    color: black;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+
+
+.image{
+    width: 100%;
+    height: 29px;
+    background-color: #502566;   
+    
+}
+
+
+.logo{
+    margin: 0;
+    width: 90px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+    .main {
+        margin-left: 10px; /* Adjusted for smaller screens */
+    }
+
+    .card {
+        width: 45%; /* Adjusted for smaller screens */
+        margin: 10px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .card {
+        width: 100%; /* Adjusted for smaller screens */
+    }
+}
