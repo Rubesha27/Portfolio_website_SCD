@@ -21,10 +21,10 @@
 }
 
 .menu a:hover {
-    background-color: #d5d0d7;
-    color: black;
+    background-color: #8533a5;
+    color: rgb(252, 245, 245);
     text-decoration: none;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 
